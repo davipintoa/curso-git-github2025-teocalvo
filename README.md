@@ -1,4 +1,4 @@
-\# Curso TMW Git \& GitHub 2025
+# Curso TMW Git \& GitHub 2025
 
 
 
@@ -24,7 +24,7 @@ Confira tudo o que temos no nosso Youtube. É grátis!
 
 
 
-\## Fluxo de trabalho Git local
+## Fluxo de trabalho Git local
 
 
 
