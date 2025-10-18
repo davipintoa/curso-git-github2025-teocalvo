@@ -1,27 +1,14 @@
 # Curso TMW Git \& GitHub 2025
 
-
-
-
-
-
-
 Um curso para iniciantes aprenderem a trabalhar com versionamento de código e repositórios remotos com GitHub.
-
-
-
 
 
 Além disso, vamos trabalhar com GitFlow ao final do curso e Visual Studio Code.
 
 
+Confira tudo o que temos no nosso Youtube. É grátis! Segue o Link:
 
-Confira tudo o que temos no nosso Youtube. É grátis!
-
-
-
-
-
+[Curso Git 2025](https://youtube.com/@teomewhy)
 
 
 ## Fluxo de trabalho Git local
